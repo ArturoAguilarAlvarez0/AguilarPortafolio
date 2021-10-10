@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,700');
+.myfonts {
+    font-family: "Press Start 2P";
+    font-size: 16px;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
+
+.curved {
+  background: #fff;
+  color: black !important;
+  text-align: center;
+}
+
+.curved h1 {
+  font-size: 6rem;
+  font-family: "Press Start 2P";
+}
+
+.curved p {
+  font-size: 1em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
