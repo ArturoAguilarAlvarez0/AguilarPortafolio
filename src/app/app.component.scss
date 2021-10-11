@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Muli:400,700');
+@import url("https://fonts.googleapis.com/css?family=Muli:400,700");
 .myfonts {
-    font-family: "Press Start 2P";
-    font-size: 16px;
+  font-family: "Press Start 2P";
+  font-size: 16px;
 }
+
 body {
   width: 100vw;
   height: 100vh;
@@ -16,12 +17,16 @@ body {
   text-align: center;
 }
 
-.curved h1 {
-  font-size: 6rem;
+.curved h1,
+a,
+span {
   font-family: "Press Start 2P";
 }
 
 .curved p {
-  font-size: 1em;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu-spacer {
+  flex: 1 1 auto;
 }
